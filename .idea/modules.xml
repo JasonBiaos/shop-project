@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mircle-shop-api/mircle-shop-api.iml" filepath="$PROJECT_DIR$/mircle-shop-api/mircle-shop-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mircle-shop-api/mircle-shop-api-member/mircle-shop-api-member.iml" filepath="$PROJECT_DIR$/mircle-shop-api/mircle-shop-api-member/mircle-shop-api-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mircle-shop-common/mircle-shop-common.iml" filepath="$PROJECT_DIR$/mircle-shop-common/mircle-shop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mircle-shop-eurekaserver/mircle-shop-eurekaserver.iml" filepath="$PROJECT_DIR$/mircle-shop-eurekaserver/mircle-shop-eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mircle-shop-member/mircle-shop-member.iml" filepath="$PROJECT_DIR$/mircle-shop-member/mircle-shop-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mircle-shop-parent.iml" filepath="$PROJECT_DIR$/mircle-shop-parent.iml" />
+    </modules>
+  </component>
+</project>

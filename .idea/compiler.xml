@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mircle-shop-api-member" />
+        <module name="mircle-shop-common" />
+        <module name="mircle-shop-eurekaserver" />
+        <module name="mircle-shop-member" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mircle-shop-api" target="1.8" />
+      <module name="mircle-shop-api-member" target="1.8" />
+      <module name="mircle-shop-common" target="1.8" />
+      <module name="mircle-shop-eurekaserver" target="1.8" />
+      <module name="mircle-shop-member" target="1.8" />
+      <module name="mircle-shop-parent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
